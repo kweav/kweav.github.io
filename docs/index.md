@@ -1,3 +1,5 @@
+## Kathryn Weaver - Ph.D. Candidate at Johns Hopkins University
+
 ## Me
 
 This is a test, please render
