@@ -1,4 +1,4 @@
-## <img src="/images/kw.jpeg" height="100" width="100"> Kathryn Weaver - Ph.D. Candidate at Johns Hopkins University
+## <img src="/images/kw.jpeg" height="100" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kathryn Weaver - Ph.D. Candidate at Johns Hopkins University
 
 
 
