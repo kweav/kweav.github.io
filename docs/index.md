@@ -1,8 +1,6 @@
-## Kathryn Weaver - Ph.D. Candidate at Johns Hopkins University
+## <p align="left"><img src="/images/kw.jpeg" height="100" width="100"></p> Kathryn Weaver - Ph.D. Candidate at Johns Hopkins University
 
-<p align="left">
-  <img src="/images/kw.jpeg" height="100" width="100">
-</p>
+
 
 ## About
 
