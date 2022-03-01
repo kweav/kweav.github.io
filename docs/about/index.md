@@ -16,4 +16,4 @@ Due to a combination of all of my undergraduate research experiences, I wanted t
 
 The [Cell, Molecular, Developmental Biology, and Biophysics (CMDB) program](https://cmdb.jhu.edu/) at Johns Hopkins University offers exactly this with comprehensive quantitative biology training and many labs that apply quantitative approaches and modeling to their research. Through rotations and thesis research, I have had the honor to research with leading computational biologists, like my original thesis advisor, [James Taylor](https://hub.jhu.edu/2020/04/03/james-taylor-obituary-tribute/), and now Rajiv McCoy, following James's unexpected passing.
 
-I am also involved as a teaching assistant in the CMDB program's quantitative biology training courses which originally drew me to the program ([see more here](/about/index.html#graduate))
+I am also involved as a teaching assistant in the CMDB program's quantitative biology training courses which originally drew me to the program ([see more here](/teaching/index.html#graduate))
