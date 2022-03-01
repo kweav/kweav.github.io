@@ -18,22 +18,22 @@
 
   I serve as a teaching assistant for this graduate course and have been head TA since 2020. Quantitative and computational methods are increasingly essential to all sub-disciplines of modern biological research. The goal of this intensive week-long “boot camp” is to empower students with the fundamental skills to apply these methods, as well as connect them to resources for further developing their knowledge and abilities. The course demonstrates the importance of version control, documentation, testing, and other methods for enhancing reproducibility, reliability, and usability of software. This is achieved through live coding sessions and use of learning exercises, where for the majority of the class, students perform data analysis to address biological questions and reinforce core bioinformatic concepts. Upon completing the course, students are comfortable using and writing software (in bash and Python) to work with large-scale biological data. The motivation of this goal is to develop computational and statistical competence in preparation for courses, rotations, thesis research, and careers. Rather than blindly outsourcing bioinformatic components of their work, students are empowered to understand methodological details and their associated advantages and limitations.
 
-  As TA for this course, I have developed tutorials and resources for quick reference as well as pre- and post-assessments that allow us to track student development; instituted daily reflections to aid students in realizing how much they accomplish and provide the instructors with a means of soliciting feedback; maintained the course website; written several assignments, while editing and refining others; and I have directly worked with students, reviewing lecture material while aiding in their assignments.
+  As TA for this course, I have developed tutorials and resources for quick reference as well as pre- and post-assessments that allow us to track student development; instituted daily reflections to aid students in realizing how much they accomplish and provide the instructors with a means of soliciting feedback; maintained the course website; written several assignments, while editing and refining others; and I have directly worked with students, reviewing lecture material while aiding in their assignments and providing feedback on submitted assignments.
 
 * *Fall 2020* **Quantitative Biology Lab**, Johns Hopkins University
 
-  I served as a teaching assistant for this graduate course at JHU which
+  I served as a teaching assistant for this graduate course at JHU which builds upon the foundations of Quantitative Biology Bootcamp, reinforcing and expanding upon mathematical and computational methods for analysis of biological data. Meetings are organized as active-learning modules focused on diverse areas of genomics. Students perform guided research with real genomic data, uploading their results and code to repositories where they receive feedback.
 
 * *Fall 2019* **Biochemistry Project Lab and Biochemistry**, Johns Hopkins University
 
-  I served as an in-lab and logistical teaching assistant for these undergraduate lab and lecture courses at JHU, respectively.
+  I served as an in-lab and logistical teaching assistant for these undergraduate lab and lecture courses at JHU, respectively. Within lab I taught principles and techniques of biochemistry in a research setting where students worked to identify and analyze a protein of interest. I was also responsible for proctoring and grading.
 
-* *2019 - Present* Training through the Johns Hopkins Teaching Academy
+* *2019 - Present* **Training through the [Johns Hopkins Teaching Academy**](https://cer.jhu.edu/teaching-academy)
 
 ### Undergraduate
 
 * *Spring 2018* **Guest Lecturer, An Introduction to Complex Traits Module: Genetics**, Bethel University
-* *2015-2018* **Peer STEM tutor**, Bethel University
+* *2015-2018* **Peer and Group STEM Tutor**, Bethel University
 * *Spring 2018* **Teaching Assistant, Genetics Lab**, Bethel University
 * *Fall 2016* **Teaching Assistant, Organic Chemistry Lab**, Bethel University
 * *2015* **Teaching Assistant, General Chemistry Lab**, Bethel University
