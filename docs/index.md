@@ -58,7 +58,7 @@ For more information on my academic service experience, see [here](/service/inde
 
 ## Resource Development
 
-* [An open-source, documented, and reproducible Python program to analyzing *C elegans* treated with anthelmintics](https://github.com/ellis22b/worm-analysis)
+* [An open-source, documented, and reproducible Python program](https://github.com/ellis22b/worm-analysis) to analyze data from *C elegans* treated with anthelmintics
 * Computational modules for a Johns Hopkins undergraduate Human Genome Variation course, associated with my JHU CER Tech Fellowship.  
 
 
