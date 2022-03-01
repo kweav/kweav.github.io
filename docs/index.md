@@ -18,10 +18,10 @@ For more on my background and training, see [here](/about/index.html)
 
 My amazing dog Gibbs loves walks, fetch, & helping code. I really enjoy his long walks, all types of needlework projects, and reading books.
 
-<img src="/images/gibbs_fetch.jpg" width="125" height="150"> <br /> <br />
-<img src="/images/gibbs_outdoor.jpg" width="150" height="125"> <br /> <br />
+<img src="/images/gibbs_fetch.jpg" width="125" height="150">
+<img src="/images/gibbs_outdoor.jpg" width="150" height="125">
 <img src="/images/gibbs_codes.jpg" width="125" height="150"> <br /> <br />
-<img src="/images/eagle.JPG" width="125" height="150"> <br /><br />
+<img src="/images/eagle.JPG" width="125" height="150">
 <img src="/images/mask1.jpg" width="125" height="150"> <br /><br />
 
 For more Gibbs pictures or pictures of some of my projects, see [here](/secretpage/index.html)
