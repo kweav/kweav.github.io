@@ -1,6 +1,4 @@
-## Kathryn (Kate) Weaver - Ph.D. Candidate at Johns Hopkins University
-
-## About Me
+## About Me -- Kathryn (Kate) Weaver
 
 <img src="/images/kw.jpeg" height="100" width="100">
 
@@ -16,6 +14,8 @@ I obtained my [B.S. in Biochemistry & Molecular Biology](https://www.bethelunive
 For more on my background and training, see [here](/about/index.html)
 
 
-### Hobbies
+### Life and Hobbies
 
-For Gibbs pictures, see [here](/secretpage/index.html)
+My amazing dog Gibbs loves walks, fetch, & helping code. I really enjoy his long walks, all types of needlework projects, and reading books.
+
+For more Gibbs pictures or pictures of some of my projects, see [here](/secretpage/index.html)

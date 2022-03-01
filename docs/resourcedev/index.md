@@ -1,13 +1,13 @@
 ## Resource Development
 
-* [rhapsodi](https://github.com/mccoy-lab/rhapsodi/)
-* [An open-source, documented, and reproducible Python program](https://github.com/ellis22b/worm-analysis) to analyze data from *C elegans* treated with anthelmintics
-* Computational modules for a Johns Hopkins undergraduate Human Genome Variation course, associated with my JHU CER Tech Fellowship.  
-
-
 ### rhapsodi
 
+[rhapsodi](https://github.com/mccoy-lab/rhapsodi/) is an R software package designed to work with low coverage single-cell DNA sequencing data from many gametes. Specifically, rhapsodi performs three sequential tasks:
+1. Phasing the haplotypes of the diploid donor from which the gametes originate
+2. Imputing the missing gamete genotypes
+3. Detecting gamete-specific meiotic crossovers
 
+rhapsodi can be [installed directly from GitHub](https://github.com/mccoy-lab/rhapsodi#installing-rhapsodi) and has been extensively benchmarked as presented in our preprint, [Strict adherence to Mendel’s First Law across a large sample of human sperm genomes](https://www.biorxiv.org/content/10.1101/2021.11.19.469261v2)
 
 ### Worm-analysis
 
