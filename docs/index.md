@@ -24,4 +24,4 @@ My amazing dog Gibbs loves walks, fetch, & helping code. I really enjoy his long
 <img src="/images/eagle.JPG" width="150" height="125">
 <img src="/images/mask1.jpg" width="125" height="150"> (Early in the pandemic, I learned how to sew face masks!) <br /><br />
 
-For more Gibbs pictures or pictures of some of my projects, see [here](/secretpage/index.html)
+<!--For more Gibbs pictures or pictures of some of my projects, see [here](/secretpage/index.html)-->
