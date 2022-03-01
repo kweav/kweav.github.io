@@ -1,5 +1,7 @@
 ## Teaching
 
+Outside of research, I am passionate about teaching, especially teaching biologists statistical and computational methods, and have served as a teaching assistant and recently as a teacher of record for several courses across universities.
+
 ### Graduate
 
 * **Big Data & Biology: Modeling Biological Processes**, Johns Hopkins University, *Spring 2023*   
