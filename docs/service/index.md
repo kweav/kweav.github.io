@@ -1,7 +1,7 @@
 ## Academic Service
 
 ### Graduate
-* **Organizing Committee Member, CMDB symBIOsis**, Johns Hopkins University (2021 - Present)
+* **Organizing Committee Member, CMDB symBIOsis**, Johns Hopkins University (2021 - 2022)
     Organize advising meetings on CMDB program requirements, peer mentorship pro-grams, qualifying exam practices, workshops, and social events for PhD students in the biology department.
 * **REU Chair, CMDB MInDS**, Johns Hopkins University (2019-2020)
   * Helped plan and operate an outreach table at the Spring Fair
