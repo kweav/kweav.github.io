@@ -10,6 +10,7 @@ Xiang, G., Keller, C.A., Heuston, E., Giardine, B. M., An, L., Wixom, A.Q., Mill
 
 ### Preprints
 
-Carioscia, S.A.<sup>\*</sup>, **Weaver, K.J.<sup>\*</sup>**, Bortvin, A.N., Ariad, D., Bell, A.D., McCoy, R.C. (2021). Strict adherence to Mendel’s First Law across a large sample of human sperm genomes. bioRxiv [Preprint]. [doi.org/10.1101/2021.11.19.469261](https://www.biorxiv.org/content/10.1101/2021.11.19.469261v2).
+Xiang, G., He, X., Giardine, B. M., **Weaver, K.J.**, Taylor, D.J., McCoy, R.C., Jansen, C., Keller, C.A., Wixom, A.Q., Cockburn, A., Miller, A., Qi, Q., Vermunt, M. W., Yue, F., Sauria, M.E.G., Schatz, M.C., Taylor, J., Göttgens, B., Hughes, J.R., Higgs, D.R., Weiss, M.J., Cheng, Y., Blobel, G.A., Bodine, D., Zhang, Y., Li, Q., Mahony, S., Hardison, R.C. (2023) Cross-species regulatory landscapes and elements revealed by novel joint systematic integration of human and mouse blood cell epigenomes. *bioRxiv* [doi.org/10.1101/2023.04.02.535219](https://doi.org/10.1101/2023.04.02.535219)
+
 
 <sup>\*</sup> Equal Contribution
