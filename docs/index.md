@@ -1,10 +1,10 @@
-## About Me -- Kathryn (Kate) Weaver
+## About Me -- Kathryn (Kate) Isaac (Previously Weaver)
 
 <img src="/images/kw.jpeg" height="100" width="100">
 
 ### Research Interests and Background
 
-I am a Ph.D. candidate in the [Cell, Molecular, Developmental Biology, and Biophysics (CMDB) program](https://cmdb.jhu.edu/) at Johns Hopkins University, advised by [Dr. Rajiv McCoy](https://mccoy-lab.org/). My research develops and applies computational models to better understand genome function and evolution. My current research interests use machine learning approaches
+I earned my Ph.D. in the [Cell, Molecular, Developmental Biology, and Biophysics (CMDB) program](https://cmdb.jhu.edu/) at Johns Hopkins University, advised by [Dr. Rajiv McCoy](https://mccoy-lab.org/). My research developed and applied computational models to better understand genome function and evolution using machine learning approaches
 * to model gene regulation and predict gene expression across hematopoietic cell types
 * to uncover molecular mechanisms contributing to human infertility
 * to leverage patterns shared across related datasets to fill in missing data
