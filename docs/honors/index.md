@@ -1,6 +1,7 @@
 ## Honors and Awards
 
 ### Graduate Honors
+* **Stephen and Carolyn Oppenheimer Thesis Award**, Johns Hopkins Krieger School of Arts and Sciences, Department of Biology, for promise in research and teaching in Biological Sciences (2023)
 * **Dean's Teaching Fellow**, Johns Hopkins Krieger School of Arts and Sciences (2022-2023)
 * **Technology Co-Fellow**, Johns Hopkins Center for Educational Resources (CER) (2021-2022)
 * **Nominee, Microsoft Ph.D. Fellowship**, Department of Biology, Johns Hopkins University (2020)
