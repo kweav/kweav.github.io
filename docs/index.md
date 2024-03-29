@@ -1,4 +1,4 @@
-## About Me -- Kathryn (Kate) Isaac (Previously Weaver)
+## About Me -- Kate Isaac
 
 <img src="/images/kw.jpeg" height="100" width="100">
 
