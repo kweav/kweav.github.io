@@ -4,6 +4,8 @@
 
 ### Research Interests and Background
 
+I am currently a Post Doc with the Training Group at [the Data Science Lab at Fred Hutchinson Cancer Center](https://hutchdatascience.org/). My work primarily supports the [ITCR Training Network](https://www.itcrtraining.org/) and to a lesser extent [AnVIL](https://anvilproject.org/).  
+
 I earned my Ph.D. in the [Cell, Molecular, Developmental Biology, and Biophysics (CMDB) program](https://cmdb.jhu.edu/) at Johns Hopkins University, advised by [Dr. Rajiv McCoy](https://mccoy-lab.org/). My research developed and applied computational models to better understand genome function and evolution using machine learning approaches
 * to model gene regulation and predict gene expression across hematopoietic cell types
 * to uncover molecular mechanisms contributing to human infertility
